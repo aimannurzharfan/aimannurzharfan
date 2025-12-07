@@ -1,0 +1,24 @@
+name: TryHackMe Update Badge
+
+on:
+  schedule:
+    # Runs at midnight every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  tryhackme-badge-update:
+    runs-on: ubuntu-latest
+    name: Update TryHackMe Badge
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Update Badge Image
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          # YOUR TRYHACKME USERNAME HERE
+          username: "aimannurzharfan" 
+          # This saves the image to an 'assets' folder
+          image_path: "./assets/thm_propic.png" 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
