@@ -11,7 +11,6 @@
 <div align="center">
 
 ---
-</br>
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aimannurzharfan&theme=shadow_blue&hide_border=false)
 
 ### Cybersecurity Profile
