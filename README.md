@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## Statistics
+---
 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aimannurzharfan&theme=shadow_blue&hide_border=false)
 
