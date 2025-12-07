@@ -1,54 +1,36 @@
 # Aiman Nurzharfan
-**Computer Science Student (Network & Security) | Incoming CCNA**
 
-I am a final-year Computer Science student at Universiti Teknologi Malaysia (UTM), specializing in Computer Networks and Security. My work focuses on enterprise network infrastructure design, automation scripting, and defensive cybersecurity operations.
+**Network Infrastructure | Security Tools | Development & Scripting**
 
-I am actively seeking internship opportunities in Network Engineering or Security Operations (SOC) for **June 2026**.
-
----
-
-### Cybersecurity & Training Stats
-
-![TryHackMe Stats](https://raw.githubusercontent.com/aimannurzharfan/aimannurzharfan/master/assets/thm_propic.png)
-
----
-
-### Technical Competencies
-
+**Technical Competencies**
 * **Network Infrastructure:** Cisco IOS, OSPF, ACLs, VLANs, NAT/PAT, TCP/IP Suite.
-* **Security Tools:** Wireshark, Nmap, Burp Suite, Wazuh SIEM.
+* **Security Tools:** Wireshark, Nmap, Wazuh SIEM.
 * **Development & Scripting:** Python (Network Automation), C++, JavaScript (Node.js/React Native).
 * **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026].
 
 ---
 
-### Featured Projects
+## Statistics
 
-#### [NetGuard: Network Vulnerability Scanner](https://github.com/aimannurzharfan/NetGuard)
-*Python, Socket Programming, Multi-threading*
-* Developed a custom multi-threaded network reconnaissance tool designed to automate the identification of active network services.
-* Implemented raw socket connections to determine port states and executed automated banner grabbing to identify software versions.
-* Features an automated reporting engine that compiles findings into timestamped, non-editable PDF audit logs.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimannurzharfan&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aimannurzharfan&theme=shadow_blue&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimannurzharfan&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### [Enterprise Network Design (Faculty of Computing)](https://github.com/aimannurzharfan/network-design-block-n28b)
-*Cisco Packet Tracer, OSPF, ACLs, Network Architecture*
-* Engineered a scalable network infrastructure for a faculty expansion project supporting a 15% growth in user capacity.
-* Migrated topology from static routing to Single-Area OSPF to ensure rapid network convergence.
-* Hardened security posture by implementing VLAN segmentation and Extended ACLs to enforce Zero Trust policies on sensitive segments.
-
-#### [PintarKod: Mobile Learning Application](https://github.com/aimannurzharfan/PintarKod)
-*React Native, Node.js, MySQL*
-* Built a full-stack mobile application designed to assist students in mastering programming concepts.
-* Architected a RESTful API backend using Express.js to handle user authentication and content delivery.
-
-#### [Packet Transmission Monitoring System](https://github.com/aimannurzharfan/packet-transmission-monitor)
-*Digital Logic Design, Deeds Simulator*
-* Designed a digital logic circuit to regulate and monitor data packet transmission between two laboratory nodes.
-* Implemented fundamental components including multiplexers, synchronous counters, and logic gates to simulate full-duplex communication with error detection.
+### Cybersecurity Profile
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png)
 
 ---
 
-### Connect
+## Technical Proficiency
 
-* **LinkedIn:** [linkedin.com/in/nurzharfan](https://www.linkedin.com/in/nurzharfan/)
-* **Portfolio:** [Behance Profile](https://www.behance.net/)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+<div align="center">
+
+## Contact
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nurzharfan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/emotionalpotatoes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aimannurzharfan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzharfan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimannurzharfan17@gmail.com)
+
+</div>
