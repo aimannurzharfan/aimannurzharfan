@@ -8,26 +8,18 @@
 * **Development & Scripting:** Python (Network Automation), C++, JavaScript (Node.js/React Native).
 * **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026].
 
----
-
 <div align="center">
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimannurzharfan&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aimannurzharfan&theme=shadow_blue&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimannurzharfan&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Cybersecurity Profile
+### TryHackMe Profile
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png)
-
----
 
 ## Technical Proficiency
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
----
 
 ## Contact
 
