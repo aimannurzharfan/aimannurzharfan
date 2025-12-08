@@ -4,7 +4,7 @@
 
 **Technical Competencies**
 * **Network Infrastructure:** Cisco IOS, OSPF, ACLs, VLANs, NAT/PAT, TCP/IP Suite.
-* **Security Tools:** Wireshark, Nmap, Wazuh SIEM.
+* **Security Tools:** Wireshark, Nmap
 * **Development & Scripting:** Python (Network Automation), C++, JavaScript (Node.js/React Native).
 * **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026]
 
