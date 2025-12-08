@@ -6,7 +6,7 @@
 * **Network Infrastructure:** Cisco IOS, OSPF, ACLs, VLANs, NAT/PAT, TCP/IP Suite.
 * **Security Tools:** Wireshark, Nmap, Wazuh SIEM.
 * **Development & Scripting:** Python (Network Automation), C++, JavaScript (Node.js/React Native).
-* **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026].
+* **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026]
 
 <div align="center">
 
