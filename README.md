@@ -16,7 +16,7 @@
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=aimannurzharfan&theme=shadow_blue&hide_border=false)
 
 ### TryHackMe Profile
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png?v=1)
 
 ## Technical Proficiency
 
