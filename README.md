@@ -12,7 +12,6 @@
 
 ---
 <br />
-
 ### TryHackMe Profile
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png?v=1)
 
