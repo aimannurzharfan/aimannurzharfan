@@ -30,7 +30,7 @@ Seeking a networking / infrastructure internship for Sept 2026. CCNA 200-301 in 
 
 <div align="center">
 
-### TryHackMe — Top 4% globally
+### TryHackMe Stats
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png?v=1)
 
 ### Connect
