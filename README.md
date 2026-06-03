@@ -1,27 +1,40 @@
 # Aiman Nurzharfan
 
-**Network Infrastructure | Security Tools | Development & Scripting**
+**Computer Networks & Security undergraduate (UTM)** — focused on network infrastructure and security.
+Seeking a networking / infrastructure internship for Sept 2026. CCNA 200-301 in progress (2026).
 
-**Technical Competencies**
-* **Network Infrastructure:** Cisco IOS, OSPF, ACLs, VLANs, NAT/PAT, TCP/IP Suite.
-* **Security Tools:** Wireshark, Nmap
-* **Development & Scripting:** Python (Network Automation), C++, JavaScript (Node.js/React Native).
-* **Certifications:** Cisco Certified Network Associate (CCNA) [Candidate - Jan 2026]
+---
+
+### Featured Projects
+
+- **[Network-Design](https://github.com/aimannurzharfan/Network-Design)** — Two-floor enterprise campus network (7 VLANs, single-area OSPF, VLSM on a /20 block, extended ACLs, NAT/PAT) designed and simulated in Cisco Packet Tracer.
+- **[Network-Scanner / NetGuard](https://github.com/aimannurzharfan/Network-Scanner)** — Multi-threaded Python TCP port scanner (configurable up to the full 65,535-port range) with banner grabbing, version detection, and automated PDF audit reports.
+- **[CipherAgent Academy](https://github.com/aimannurzharfan/CipherAgent-Academy)** — Interactive cryptography learning platform (Rail Fence, Diffie-Hellman, MITM) in React, deployed on Vercel with a server-side AI tutor.
+- **[PintarKod](https://github.com/aimannurzharfan/PintarKod)** — Full-stack mobile learning app (React Native / Expo, Express, Prisma) with JWT auth and an AI tutor.
+- **[Packet-Monitor](https://github.com/aimannurzharfan/Packet-Monitor)** — Full-duplex packet transmission system in digital logic (MUX/DEMUX routing, T flip-flop counters, hardware fault detection).
+
+*Thesis (to be published): anomaly-based DDoS intrusion detection on a Ryu SDN controller using multi-window Kalman filtering and Shannon entropy on CIC-DDoS2019 traffic (>95% detection, <5% false positives).*
+
+---
+
+### Skills
+
+- **Networking:** Cisco IOS, OSPF, VLANs & 802.1Q trunking, NAT/PAT, ACLs, VLSM, TCP/IP
+- **Security:** Wireshark, Nmap, vulnerability assessment, intrusion detection (IDS), MITRE ATT&CK / NIST CSF (foundational)
+- **Programming:** Python (network automation), JavaScript (Node.js / React Native), Java, Bash, SQL
+- **Certifications:** CCNA 200-301 (in progress, 2026), Oracle OCI Foundations, Oracle AI Foundations, TryHackMe (Top 4%)
+
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 <div align="center">
 
----
-<br />
-
-### TryHackMe Profile
+### TryHackMe — Top 4% globally
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/aimannurzharfan.png?v=1)
 
-## Technical Proficiency
+### Connect
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## Contact
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nurzharfan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/emotionalpotatoes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aimannurzharfan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzharfan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimannurzharfan17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurzharfan) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimannurzharfan17@gmail.com) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nurzharfan)
 
 </div>
