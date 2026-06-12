@@ -8,7 +8,7 @@ Seeking a networking / infrastructure internship for Sept 2026. CCNA 200-301 in 
 ### Featured Projects
 
 - **[Network-Design](https://github.com/aimannurzharfan/Network-Design)** — Two-floor enterprise campus network (7 VLANs, single-area OSPF, VLSM on a /20 block, extended ACLs, NAT/PAT) designed and simulated in Cisco Packet Tracer.
-- **[Network-Scanner / NetGuard](https://github.com/aimannurzharfan/Network-Scanner)** — Multi-threaded Python TCP port scanner (configurable up to the full 65,535-port range) with banner grabbing, version detection, and automated PDF audit reports.
+- **[NetGuard Sentinel](https://github.com/aimannurzharfan/netguard-sentinel)** —  Autonomous vulnerability triage agent on Microsoft Foundry. Built with Foundry (Phi-4-mini-instruct), Oracle 23ai vector search, Python scanner, React UI, and WCAG 2.1 AA accessibility.
 - **[CipherAgent Academy](https://github.com/aimannurzharfan/CipherAgent-Academy)** — Interactive cryptography learning platform (Rail Fence, Diffie-Hellman, MITM) in React, deployed on Vercel with a server-side AI tutor.
 - **[PintarKod](https://github.com/aimannurzharfan/PintarKod)** — Full-stack mobile learning app (React Native / Expo, Express, Prisma) with JWT auth and an AI tutor.
 - **[Packet-Monitor](https://github.com/aimannurzharfan/Packet-Monitor)** — Full-duplex packet transmission system in digital logic (MUX/DEMUX routing, T flip-flop counters, hardware fault detection).
