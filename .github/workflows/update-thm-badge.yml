@@ -12,7 +12,7 @@ jobs:
     name: Update TryHackMe Badge
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       
       - name: Update Badge Image
         uses: p4p1/tryhackme-badge-workflow@main
